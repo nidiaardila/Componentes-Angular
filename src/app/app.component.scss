@@ -1,9 +1,9 @@
 .container{
     display: grid;
     grid-template-areas:
-    'toolbar   toolbar     toolbar     toolbar     toolbar     toolbar'
-    'men       contenido   contenido   contenido   contenido   contenido'
-    'men       contenido   contenido   contenido   contenido   contenido';
+    'toolbar   toolbar     toolbar     toolbar     toolbar'
+    'men       contenido   contenido   contenido   contenido'
+    'men       contenido   contenido   contenido   contenido';
 }
 
 .grid-menu{
